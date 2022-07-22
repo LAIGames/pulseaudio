@@ -1,3 +1,3 @@
-module github.com/yurifedoseev/pulseaudio
+module github.com/laigames/pulseaudio
 
 go 1.16
